@@ -74,3 +74,16 @@ ul {
         top: 325px;
         left: 16px;
 }
+.player{
+    height: 200px;
+    width: 200px;
+    background: yellow;
+}
+audio::-webkit-media-controls-play-button{
+    background-color:green;}
+img{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
